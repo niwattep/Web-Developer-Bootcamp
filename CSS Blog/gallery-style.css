@@ -1,0 +1,21 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+img {
+	float: left;
+	width: 30%;
+	max-width: 333.33px;
+	margin: 1.66%;
+}
+
+.gallery-title {
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.container {
+	max-width: 1000px;
+	width: 80%;
+	margin: 10px auto;
+}

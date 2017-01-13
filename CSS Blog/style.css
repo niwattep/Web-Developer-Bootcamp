@@ -1,0 +1,52 @@
+* {
+	font-family: 'Raleway', sans-serif;
+}
+
+h1, p, hr {
+	margin: 20px;
+}
+
+a {
+	margin: auto 10px;
+}
+
+.page-title {
+	font-weight: bold;
+	font-size: 40px;
+	color: #233B6E;
+	text-transform: uppercase;
+	text-align: center;
+	border-bottom: 3px solid #EFF0F4;
+	margin-bottom: 10px;
+}
+
+.links {
+	text-transform: uppercase;
+	text-align: center;
+	margin: 10px auto;
+	color: #415F9D;
+}
+
+.container {
+	max-width: 700px;
+	width: 80%;
+	margin: 0 auto;
+	border: 20px solid #D3D6DB;
+	padding: 10px;
+}
+
+.date {
+	color: #415F9D;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+}
+
+.header {
+	color: #233B6E;
+	font-weight: bold;
+}
+
+div[class="content"] p:nth-of-type(1) {
+	padding-left: 10px;
+	border-left: 3px solid #D3D6DB;
+}
